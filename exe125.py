@@ -1,0 +1,70 @@
+import exe125funcoes
+nu = int(input("Fale um numero "))
+
+
+dobre =exe125funcoes.dobre(nu)
+
+nu2 = int(input("Digite um numero "))
+
+soma = int(nu2 + nu)
+print(f"A soma do {dobre} e {nu2} é {soma}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
